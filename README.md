@@ -61,7 +61,6 @@ Installation
 ------------
 
     $ pip install django
-    $ # for optional package integrations
     $ pip install djangorestframework==3.11
 
 
