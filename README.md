@@ -80,15 +80,15 @@ installed and activated:
     $ python manage.py migrate
     $ python manage.py runserver 
 
-Browse to http://localhost:8000
-
-App is Hosted on pythonanywhere at http://sreeramsreekrishna.pythonanywhere.com
+Browse to http://localhost:8000 <br>
+ 
+App is Hosted on pythonanywhere at http://sreeramsreekrishna.pythonanywhere.com <br>
 
 -----
 Usage
 -----
-For Adding data to the api visit at http://sreeramsreekrishna.pythonanywhere.com/home
-Fill the form and submit. Data will be stored in the database
-Next for retrieval of data as a json visit at http://sreeramsreekrishna.pythonanywhere.com/request/?format=json
+For Adding data to the api visit at http://sreeramsreekrishna.pythonanywhere.com/home <br>
+Fill the form and submit. Data will be stored in the database <br>
+Next for retrieval of data as a json visit at http://sreeramsreekrishna.pythonanywhere.com/request/?format=json <br>
 
     
