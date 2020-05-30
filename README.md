@@ -17,7 +17,9 @@ visit this link directly to view data in json format http://sreeramsreekrishna.p
 
 
 
-
+--------
+Response
+--------
 Django Web App will produce a response like::
 
 HTTP 200 OK
@@ -63,8 +65,7 @@ Installation
     $ pip install djangorestframework==3.11
 
 
-Running the example app
-^^^^^^^^^^^^^^^^^^^^^^^
+Running the example app<br>
 
 It is recommended to create a virtualenv for testing. Assuming it is already
 installed and activated:
@@ -80,6 +81,8 @@ installed and activated:
     $ python manage.py runserver 
 
 Browse to http://localhost:8000
+
+App is Hosted on pythonanywhere at http://sreeramsreekrishna.pythonanywhere.com
 
 -----
 Usage
