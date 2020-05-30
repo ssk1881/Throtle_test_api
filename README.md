@@ -1,14 +1,7 @@
-# Throtle_test_api
- ==================================
 Throtle_test_api Django Application as an API
 ==================================
-Django application with User and ActivityPeriod models, with a custom management page to populate the database with some dummy data.
 
-Api can be found at http://sreeramsreekrishna.pythonanywhere.com/
-For Adding Data visit at http://sreeramsreekrishna.pythonanywhere.com/home
-For viewing data either go to http://sreeramsreekrishna.pythonanywhere.com/ and then click on the rest api link 
-or 
-visit this link directly to view data in json format http://sreeramsreekrishna.pythonanywhere.com/request/?format=json  
+Django application with User and ActivityPeriod models, with a custom management page to populate the database with some dummy data.
 
 
 
@@ -16,14 +9,22 @@ visit this link directly to view data in json format http://sreeramsreekrishna.p
 Overview
 --------
 
-Django Web App will produce a response like:
+Api can be found at http://sreeramsreekrishna.pythonanywhere.com/ <br>
+For Adding Data visit at http://sreeramsreekrishna.pythonanywhere.com/home <br>
+For viewing data either go to http://sreeramsreekrishna.pythonanywhere.com/ and then click on the rest api link  <br>
+or <br>
+visit this link directly to view data in json format http://sreeramsreekrishna.pythonanywhere.com/request/?format=json  <br>
+
+
+
+
+Django Web App will produce a response like::
 
 HTTP 200 OK
 Allow: GET, POST, HEAD, OPTIONS
 Content-Type: application/json
 Vary: Accept
 
-[
     {
         "id": "3",
         "real_name": "sree",
@@ -43,7 +44,6 @@ Vary: Accept
             }
         ]
     }
- ]
 
 
 ------------
